@@ -2,6 +2,22 @@ html {
     background: #8b1010;
 }
 
+container {
+    text-decoration: none;
+    color: #ff7272
+}
+
+img {
+    float: center;
+    width: 5%;
+    height: 5%;
+}
+
+container2 {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 40px;
@@ -10,16 +26,12 @@ body {
     color: #ffffff;
 }
 
-img {
-    float: center;
-    size: 50%
-}
-
 content {
     font: #ffffff;
 }
 
 img {
     float: left;
-    size: 50%
+    width: 25%;
+    height: 25%;
 }
