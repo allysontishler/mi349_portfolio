@@ -43,12 +43,21 @@ body {
     color: #ffffff;
 }
 
+h1 {
+    float: right;
+    padding-left: 50px;
+    color: #ffffff;
+}
+
 content {
     font: #ffffff;
+    padding-left: 50px;
 }
 
 img {
     float: left;
     width: 25%;
     height: 25%;
+    padding-left: 125px;
 }
+
