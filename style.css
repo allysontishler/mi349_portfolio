@@ -8,8 +8,6 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-left: 40px;
-    padding-right: 40px;
 }
 
 .nav-link {
@@ -30,7 +28,7 @@ html {
     margin: 0 auto;
     width: 25%;
     height: 25%;
-    max-width: 100px;
+    max-width: 100%;
     display: block;
 }
 
