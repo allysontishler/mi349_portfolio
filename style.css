@@ -1,10 +1,17 @@
-body {
-    background-color: #8b1010;
-    font: #ffffff;
+html { 
+    background: #8b1010;
 }
 
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    background: #8b1010;
+    color: #ffffff;
+}
 
 img {
+    float: center;
     size: 50%
 }
 
@@ -13,5 +20,6 @@ content {
 }
 
 img {
+    float: left;
     size: 50%
 }
