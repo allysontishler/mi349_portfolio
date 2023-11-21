@@ -20,15 +20,13 @@ html {
 
 .left-link {
     color: #ff7272;
-    float: center;
 }
 
 .right-link {
     color: #ffffff;
-    float: center;
 }
 
-.top-nav img {
+.logo-nav {
     margin: 0 auto;
     width: 25%;
     height: 25%;
