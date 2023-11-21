@@ -43,15 +43,9 @@ body {
     color: #ffffff;
 }
 
-h1 {
-    padding-left: 125px;
-    color: #ffffff;
-}
-
-content {
+.content-left {
     font: #ffffff;
     padding-left: 125px;
-
 }
 
 img {
