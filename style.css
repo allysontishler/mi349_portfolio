@@ -11,6 +11,13 @@ html {
     padding: 10px;
 }
 
+.left-link,
+.right-link {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .nav-link {
     text-decoration: none;
     padding: 5px;
