@@ -20,10 +20,12 @@ html {
 
 .left-link {
     color: #ff7272;
+    float: center;
 }
 
 .right-link {
     color: #ffffff;
+    float: center;
 }
 
 .top-nav img {
