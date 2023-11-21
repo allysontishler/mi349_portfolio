@@ -6,7 +6,7 @@ html {
 
 .top-nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 10px;
 }
@@ -26,7 +26,7 @@ html {
     color: #ffffff;
 }
 
-.container img {
+.top-nav img {
     margin: 0 auto;
     width: 15px;
     height: auto;
