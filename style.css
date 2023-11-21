@@ -45,13 +45,13 @@ body {
 
 .content-left {
     font: #ffffff;
-    padding-left: 125px;
+    padding-left: 300px;
 }
 
 img {
     float: left;
     width: 25%;
     height: 25%;
-    padding-left: 125px;
+    padding-left: 75px;
 }
 
