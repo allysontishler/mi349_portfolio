@@ -38,17 +38,13 @@ body {
     background: #8b1010;
     color: #ffffff;
 }
-.content {
-    margin-top: 50px;
-}
 
 .content-left {
     font: #ffffff;
-    padding-left: 50px;
     margin-left: 100px;
     margin-right: 125px;
+    margin-top: 50px !important;
     font-size: 1.5em;
-    margin-top: 50px;
 }
 
 img {
