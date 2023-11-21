@@ -2,18 +2,25 @@ html {
     background: #8b1010;
 }
 
-.container {
+.top-nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 10px;
 }
 
-.container a {
+.nav-link {
     text-decoration: none;
-    color: #ff7272;
     margin: 0;
     padding: 5px;
+}
+
+.left-link {
+    color: #ff7272;
+}
+
+.right-link {
+    color: #ffffff;
 }
 
 .container img {
@@ -21,13 +28,6 @@ html {
     width: 7%;
     height: 7%;
     max-width: 100px;
-}
-
-.container a {
-    text-decoration: none;
-    color: #ffffff;
-    margin: 0;
-    padding: 5px;
 }
 
 body {
