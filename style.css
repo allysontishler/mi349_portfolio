@@ -28,9 +28,10 @@ html {
 
 .container img {
     margin: 0 auto;
-    width: 0.5%;
-    height: 0.5%;
-    max-width: 100px;
+    width: 50px;
+    height: auto;
+    max-width: 100%;
+    display: block;
 }
 
 body {
