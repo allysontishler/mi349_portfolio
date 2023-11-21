@@ -38,12 +38,14 @@ body {
     background: #8b1010;
     color: #ffffff;
 }
+.content {
+    margin-top: 50px;
+}
 
 .content-left {
     color: #ffffff;
     margin-left: 150px;
     margin-right: 150px;
-    margin-top: 50px !important;
     font-size: 1.5em;
 }
 
@@ -51,7 +53,6 @@ img {
     float: left;
     width: 20%;
     height: 20%;
-    margin-top: 50px;
     padding-left: 125px;
     margin-right: 25px;
 }
