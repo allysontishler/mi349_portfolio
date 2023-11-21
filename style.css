@@ -6,7 +6,7 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 40px;
 }
 
 .container a {
@@ -16,8 +16,8 @@ html {
 
 .container img {
     margin: 0 auto;
-    width: 3%;
-    height: 3%;
+    width: 7%;
+    height: 7%;
     max-width: 100px;
 }
 
