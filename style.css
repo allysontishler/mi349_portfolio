@@ -6,14 +6,13 @@ html {
 
 .top-nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     padding: 10px;
 }
 
 .nav-link {
     text-decoration: none;
-    margin: 0;
     padding: 5px;
     font-size: 1.5em;
 }
@@ -31,6 +30,7 @@ html {
     width: 25%;
     height: 25%;
     max-width: 100px;
+    display: block;
 }
 
 body {
