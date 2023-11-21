@@ -47,7 +47,9 @@ body {
     font: #ffffff;
     padding-left: 50px;
     margin-left: 50px;
+    margin-right: 125px;
     width: calc(100% - 275px);
+    font-size: 3em;
 }
 
 img {
