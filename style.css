@@ -8,14 +8,8 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px;
-}
-
-.left-link,
-.right-link {
-    flex: 1;
-    display: flex;
-    justify-content: flex-end;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .nav-link {
