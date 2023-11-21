@@ -41,6 +41,9 @@ body {
     background: #8b1010;
     color: #ffffff;
 }
+.content {
+    margin-top: 50px;
+}
 
 .content-left {
     font: #ffffff;
