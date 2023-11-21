@@ -4,14 +4,16 @@ html {
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 40px;
+    padding: 10px;
 }
 
 .container a {
     text-decoration: none;
     color: #ff7272;
+    margin: 0;
+    padding: 5px;
 }
 
 .container img {
@@ -24,11 +26,13 @@ html {
 .container a {
     text-decoration: none;
     color: #ffffff;
+    margin: 0;
+    padding: 5px;
 }
 
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 40px;
+    margin: 0;
     padding: 40px;
     background: #8b1010;
     color: #ffffff;
