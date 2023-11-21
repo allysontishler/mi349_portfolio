@@ -40,9 +40,17 @@ body {
     padding: 0 !important;
     background: #8b1010;
     color: #ffffff;
-    margin-top: 60px;
 }
 
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 100px;
+
+}
 .content-left {
     font: #ffffff;
     padding-left: 50px;
@@ -57,7 +65,7 @@ img {
     float: left;
     width: 20%;
     height: 20%;
-    margin-top: 60px;
+    margin-top: 100px;
     padding-left: 125px;
     margin-right: 25px;
 }
