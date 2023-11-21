@@ -1,6 +1,7 @@
 html { 
     background: #8b1010;
-    margin: 0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .top-nav {
@@ -34,8 +35,8 @@ html {
 
 body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: 0;
-    padding: 40px;
+    margin: 0 !important;
+    padding: 0 !important;
     background: #8b1010;
     color: #ffffff;
 }
