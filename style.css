@@ -56,3 +56,11 @@ img {
     padding-left: 125px;
 }
 
+.footer {
+    height: 187px;
+    width: 187px;
+    margin: 5.5px 5.5px 5.5px 5.5px;
+    display: table-cell;
+    vertical-align: bottom;
+    color: #ffffff;
+}
