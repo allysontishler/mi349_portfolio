@@ -50,13 +50,14 @@ body {
     margin-right: 125px;
     width: calc(100% - 275px);
     font-size: 1.5em;
+    margin-top: 75px;
 }
 
 img {
     float: left;
     width: 20%;
     height: 20%;
-    margin-top: 25px;
+    margin-top: 75px;
     padding-left: 125px;
     margin-right: 25px;
 }
