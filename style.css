@@ -8,11 +8,13 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 10px;
 }
 
 .nav-link {
     text-decoration: none;
     padding: 5px;
+    margin: 0;
     font-size: 1.5em;
 }
 
@@ -28,7 +30,7 @@ html {
     margin: 0 auto;
     width: 25%;
     height: 25%;
-    max-width: 100%;
+    max-width: 100px;
     display: block;
 }
 
