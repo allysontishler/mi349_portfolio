@@ -47,7 +47,7 @@ body {
     text-decoration: none;
     color: #ff7272;
     font-size: 1.5em;
-    line-height: 1em;
+    flex: 1;
 }
 
 .content-left h1 {
