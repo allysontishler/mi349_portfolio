@@ -40,10 +40,9 @@ body {
 }
 .content {
     margin-top: 100px;
-    margin-left: 300px;
 }
 
-.content-left {
+.content-left p {
     color: #ffffff;
     margin-left: 300px;
     margin-right: 125px;
