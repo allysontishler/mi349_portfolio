@@ -42,18 +42,25 @@ body {
     margin-top: 100px;
 }
 
+.content a {
+    margin-left: 700px;
+    text-decoration: none;
+    color: #ff7272;
+    font-size: 1.7em;
+}
+
 .content-left h1 {
     color: #ffffff;
     margin-left: 700px;
     margin-right: 150px;
-    font-size: 1.7em;
+    font-size: 2em;
 }
 
 .content-left p {
     color: #ffffff;
     margin-left: 700px;
     margin-right: 150px;
-    font-size: 1.5em;
+    font-size: 1.7em;
 }
 
 img {
