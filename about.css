@@ -34,13 +34,13 @@ html {
 }
 .column {
     flex: 33.33%;
-    height: 200px;
-    padding: 50px;
+    height: 500px;
+    padding: 25px;
     margin: 5px;
     background-color: #ffffff;
     text-align: center;
     margin-top: 100px;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-right: 150px;
   }
   
