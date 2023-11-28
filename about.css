@@ -47,8 +47,34 @@ html {
     margin-left: 25px;
     margin-right: 25px;
   }
+
+  .column h1 {
+    color: #ff3030;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
   
   .container {
     display: flex;
   }
+
+  .aboutcolumn {
+    flex: 50%;
+    height: 500px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #ffffff;
+    text-align: center;
+    color: #ff7272;
+  }
+
+  .skillscolumn {
+    flex: 50%;
+    height: 500px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #ffffff;
+    text-align: center;
+    color: #ff7272;
+  }
+
 
