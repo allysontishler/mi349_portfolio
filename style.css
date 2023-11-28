@@ -47,6 +47,11 @@ body {
     text-decoration: none;
     color: #ff7272;
     font-size: 1.5em;
+    padding: 0;
+    margin-right: 15px;
+}
+
+.content-left a:last-child {
     margin-right: 0;
 }
 
