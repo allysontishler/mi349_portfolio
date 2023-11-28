@@ -42,6 +42,13 @@ body {
     margin-top: 100px;
 }
 
+.content-left h1 {
+    color: #ffffff;
+    margin-left: 700px;
+    margin-right: 150px;
+    font-size: 1.7em;
+}
+
 .content-left p {
     color: #ffffff;
     margin-left: 700px;
