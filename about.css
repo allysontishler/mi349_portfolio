@@ -1,0 +1,39 @@
+html { 
+    background: #8b1010;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 5px;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.left-link {
+    color: #ff7272;
+}
+
+.right-link {
+    color: #ffffff;
+}
+
+.logo-nav {
+    margin: 0 auto;
+    width: 25%;
+    height: 25%;
+    max-width: 100px;
+    display: block;
+}
+.color-box {
+    background-color: #ffffff;
+    width: 100px;
+    height: 300px;
+}
