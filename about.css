@@ -47,11 +47,6 @@ html {
     margin-left: 25px;
     margin-right: 25px;
   }
-
-  .column h1 {
-    color: #ff3030;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-  }
   
   .container {
     display: flex;
