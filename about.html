@@ -13,12 +13,32 @@
       <img src="images/Untitled66_20231113145315.PNG" alt="Allyson White Chircle Logo" class="logo-nav">
       <a href="about.html" class="right-link nav-link">About</a>
     </div>
-    <article class="cards">
-      <div class="row">
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-      </div> 
-    </article>
+    <div class="container">
+      <div class="column">
+        <h1> First Column </h1>
+        <p>First column text</p>
+      </div>
+      <div class="column">
+        <h1> Second Column </h1>
+        <p>Second column text</p>
+      </div>
+      <div class="column">
+        <h1> Third Column </h1>
+        <p>Third column text</p>
+      </div>
+    </div>
+  <style>
+    .column {
+      flex: 33.33%;
+      height: 200px;
+      padding: 10px;
+      margin: 5px;
+      background-color: #ffffff;
+      text-align: center;
+    }
+    .container {
+      display: flex;
+    }
+  </style>
   </body>
 </html>
