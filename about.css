@@ -33,15 +33,18 @@ html {
     display: block;
 }
 .column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    box-sizing: border-box;
+    flex: 33.33%;
+    height: 200px;
+    padding: 50px;
+    margin: 5px;
     background-color: #ffffff;
-}
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  .container {
+    display: flex;
+  }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
