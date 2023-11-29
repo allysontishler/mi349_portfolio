@@ -38,7 +38,7 @@ html {
 }
 .column {
     flex: 33.33%;
-    height: 700px;
+    height: 500px;
     padding: 10px;
     margin: 5px;
     background-color: #ffffff;
@@ -53,16 +53,17 @@ html {
   }
 
   .table {
-    padding-bottom: 10px;;
-    padding-top: 10px;;
+    padding-bottom: 20px;;
+    padding-top: 20px;;
     margin: 0;
+    margin-left: 100px;
   }
 
   .table td {
     border: none;
     color: #8b1010;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     margin: 0;
     text-align: left;
   }
