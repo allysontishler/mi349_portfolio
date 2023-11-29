@@ -31,7 +31,7 @@ html {
     height: 50%;
     max-width: 100px;
     display: block;
-    padding-right: 20px;
+    padding-right: 40px;
 }
 
 body {
@@ -99,6 +99,6 @@ img {
 .email-footer {
     text-align: center;
     margin: 0;
-    padding: 0;
+    padding-right: 40px;
     flex-grow: 1;
 }
