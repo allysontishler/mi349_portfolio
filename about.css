@@ -67,12 +67,6 @@ html {
     text-align: left;
   }
 
-  .reduced-spacing td {
-    padding-top: 3px;
-    padding-bottom: 3px;
-    margin: 0;
-  }
-
   .column h1 {
     color: #ff7272;
     margin-top: 0;
