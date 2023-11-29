@@ -52,6 +52,10 @@ html {
     display: flex;
   }
 
+  .table {
+    margin: 0;
+  }
+
   .table td {
     border: none;
     color: #8b1010;
