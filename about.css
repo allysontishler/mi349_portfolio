@@ -46,10 +46,13 @@ html {
     margin-top: 100px;
     margin-left: 25px;
     margin-right: 25px;
-    display: flex;
   }
   
   .container {
+    display: flex;
+  }
+
+  .column {
     display: flex;
   }
 
