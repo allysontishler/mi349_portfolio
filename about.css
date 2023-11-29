@@ -52,4 +52,7 @@ html {
     display: flex;
   }
 
+  .table td {
+    border: none;
+  }
 
