@@ -54,9 +54,10 @@ html {
 
   .table {
     padding-bottom: 20px;;
-    padding-top: 10px;;
+    padding-top: 5px;;
     margin: 0;
     margin-left: 100px;
+    font-size: 1.5em;
   }
 
   .table td {
@@ -69,7 +70,7 @@ html {
   }
 
   .column h1 {
-    color: #ff7272;
+    color: #8b1010;
     margin-top: 0;
     padding: 0;
   }
