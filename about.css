@@ -52,7 +52,17 @@ html {
     display: flex;
   }
 
+  .table {
+    border-collapse: collapse;
+  }
+
   .table td {
     border: none;
   }
+
+  .table h1 {
+    color: #ff7272;
+  }
+
+  
 
