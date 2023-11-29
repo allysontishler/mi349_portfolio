@@ -55,12 +55,14 @@ html {
   .table {
     margin-top: 0;
     margin-left: 50px;
-    border-collapse: collapse;
+    margin-bottom: 0;
   }
 
   .table td {
     border: none;
     color: #8b1010;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   .column h1 {
