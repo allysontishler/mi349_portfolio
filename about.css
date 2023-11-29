@@ -58,9 +58,10 @@ html {
 
   .table td {
     border: none;
+    color: #8b1010;
   }
 
-  .table h1 {
+  .column h1 {
     color: #ff7272;
   }
 
