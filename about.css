@@ -72,7 +72,6 @@ html {
   .table2 {
     padding-bottom: 10px;
     padding-top: 10px;
-    margin: 0;
     margin-left: 150px;
     font-size: 1.5em;
   }
@@ -80,9 +79,7 @@ html {
   .table2 td {
     border: none;
     color: #8b1010;
-    padding-top: 40px;
     padding-bottom: 40px;
-    margin: 0;
   }
 
   .column h1 {
