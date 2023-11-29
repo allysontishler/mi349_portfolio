@@ -8,6 +8,7 @@ html {
     align-items: center;
     padding-left: 250px;
     padding-right: 250px;
+    box-sizing: border-box;
 }
 
 .nav-link {
