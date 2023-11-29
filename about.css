@@ -53,7 +53,8 @@ html {
   }
 
   .table {
-    margin: 0;
+    margin-top: 0;
+    margin-left: 50px;
   }
 
   .table td {
@@ -63,6 +64,7 @@ html {
 
   .column h1 {
     color: #ff7272;
+    margin-bottom: 0;
   }
 
   
