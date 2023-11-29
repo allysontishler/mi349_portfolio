@@ -92,8 +92,9 @@ html {
 
   .column p {
     color: #8b1010;
-    padding: 40px;
-    font-size: 2em;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 1.5em;
   }
 
 
