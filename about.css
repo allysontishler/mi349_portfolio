@@ -53,18 +53,14 @@ html {
   }
 
   .table {
-    margin-top: 0;
-    margin-left: 150px;
-    margin-bottom: 0;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding: 0;
+    margin: 0;
   }
 
   .table td {
     border: none;
     color: #8b1010;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 0;
     margin: 0;
   }
 
