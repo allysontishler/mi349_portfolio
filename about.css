@@ -52,11 +52,6 @@ html {
     display: flex;
   }
 
-  .column {
-    display: flex;
-    flex-direction: column;
-  }
-
   .two-columns {
     display: flex;
   }
