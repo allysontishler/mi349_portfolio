@@ -66,7 +66,7 @@ html {
     padding-bottom: 40px;
     margin: 0;
     text-align: left;
-    padding-left: 75px;
+    padding-left: 50px;
   }
 
   .table2 {
@@ -80,7 +80,8 @@ html {
     color: #8b1010;
     padding-bottom: 40px;
     padding-top: 40px;
-    padding-left: 100px;
+    padding-left: 75px;
+
   }
 
   .column h1 {
