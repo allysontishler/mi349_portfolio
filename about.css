@@ -52,10 +52,6 @@ html {
     display: flex;
   }
 
-  .table {
-    border-collapse: collapse;
-  }
-
   .table td {
     border: none;
     color: #8b1010;
