@@ -52,13 +52,17 @@ html {
     display: flex;
   }
 
+  .column {
+    display: flex;
+    flex-direction: column;
+  }
+
   .two-columns {
     display: flex;
   }
 
-  .column1, .column2 {
-    flex: 1;
-    padding: 0 10px;
+  .vertical {
+    flex-direction: column;
   }
 
   .column1 p, .column2 p {
